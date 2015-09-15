@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "calculating percentiles in oracle"
-date:   2015-09-04 16:11:54
+date:   2015-09-15 16:11:54
 tags: oracle
 ---
 Calculating percentiles in oracle is pretty easy.
