@@ -11,6 +11,10 @@ grep "200 " /var/log/apache2/apimeister-access.log \
   | grep -v 'Baiduspider' \
   | grep -v 'bingbot' \
   | grep -v 'YandexBot' \
+  | grep -v 'MJ12bot' \
+  | grep -v 'meanpathbot' \
+  | grep -v 'DotBot' \
+  | grep -v 'AhrefsBot' \
   | cut -d '"' -f 2 \
   | cut -d ' ' -f 2 \
   | sort | uniq -c | sort -rn | less
