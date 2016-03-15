@@ -37,7 +37,7 @@ $.ajax({type:'GET',
 
 So the script queries the github api for the commit log of a certain resource. With that response, the script build a HTML table with all the relevant content.
 
-In real life this snippet evaluated look like this:
+In real life this snippet evaluated looks like this:
 
 <div id='commits' data-path='src/io/trivium/extension/'></div>
 <script src='https://code.jquery.com/jquery-2.2.1.min.js'></script>
