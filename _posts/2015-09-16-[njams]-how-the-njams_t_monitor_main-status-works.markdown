@@ -11,11 +11,7 @@ Although all of this is easily accessible through the GUI, you sometimes need to
 SELECT m.jobstart,o.deployment_name,o.objectname,
   CASE
     WHEN m.LASTEVENTSTATUS='3' THEN 'error'
-    WHEN m.LASTEVENTSTATUS='2' THEN
-      CASE
-        WHEN m.status='3' THEN 'warning with error'
-        WHEN m.status='2' THEN 'warning'
-      END
+    WHEN m.LASTEVENTSTATUS='2' THEN 'warning'
     WHEN m.LASTEVENTSTATUS='1' THEN
       CASE
         WHEN m.status='3' THEN 'success with error'
