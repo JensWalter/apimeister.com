@@ -4,6 +4,8 @@ title:  "get table and index allocation size in oracle"
 date:   2015-06-27 08:13:54
 tags: oracle
 ---
+[part 2 -> now with partitioned tables]({% post_url 2016-06-21-get-oracle-allocation-sizes-part-2 %})
+
 Determining the size of a table can be a bit tricky within oracle.
 You can size all columns and add the values together. That woul give you an estimate of a row size. If you do that for all rows, you got the net size of data you are storing. This of cause does not account for index and table overhead.
 To get more realisitc view of the storage requirments, you can query the size, which oracle has allocated for your user objects. Even this is an estimate, since it does not account for fragmentation or other side effect. But you can see what is actually allocated within the tablespace.
