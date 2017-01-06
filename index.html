@@ -13,11 +13,6 @@ layout: default
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          <p style="font-size:0.5em;">tags:
-              {% for tag in post.tags %}
-              <a href="{{ site.baseurl | append: "/tag/" | append: tag | append: "/index.html"  }}" style="margin-left:5px;margin-right:5px">{{tag}}</a>
-              {% endfor %}
-          </p>
         </h2>
 
       </li>
