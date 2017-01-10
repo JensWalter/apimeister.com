@@ -2,7 +2,6 @@
 title: Tibco EMS with database backend (postgresql)
 date: 2008-11-16T20:48:11+00:00
 layout: post
-permalink: /2008/11/tibco-ems-with-database-backend-postgresql/
 tags:
   - EMS
   - postgres

@@ -2,7 +2,6 @@
 title: 'cloud-the-web - my new web project'
 date: 2009-08-08T12:28:01+00:00
 layout: post
-permalink: /2009/08/cloud-the-web-my-new-web-project/
 tags:
   - cloudtheweb.com
   - HTML

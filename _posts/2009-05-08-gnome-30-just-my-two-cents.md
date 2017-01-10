@@ -2,7 +2,6 @@
 title: gnome 3.0, just my two cents
 date: 2009-05-08T14:10:59+00:00
 layout: post
-permalink: /2009/05/gnome-30-just-my-two-cents/
 tags:
   - gnome 3.0
   - gnomeshell

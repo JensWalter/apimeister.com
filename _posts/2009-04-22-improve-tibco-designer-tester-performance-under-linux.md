@@ -2,7 +2,6 @@
 title: improve TIBCO Designer tester performance under linux
 date: 2009-04-22T00:20:25+00:00
 layout: post
-permalink: /2009/04/improve-tibco-designer-tester-performance-under-linux/
 tags:
   - designer
   - java

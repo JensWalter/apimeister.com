@@ -2,7 +2,6 @@
 title: Hello World!
 date: 2008-09-21T12:38:37+00:00
 layout: post
-permalink: /2008/09/hello-world/
 ---
 So, this is my my first entry. So lets start with some facts about me.
 

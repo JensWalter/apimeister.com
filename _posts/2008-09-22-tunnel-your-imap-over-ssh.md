@@ -2,7 +2,6 @@
 title: tunnel your imap over ssh
 date: 2008-09-22T21:06:12+00:00
 layout: post
-permalink: /2008/09/tunnel-your-imap-over-ssh/
 tags:
   - imap
   - linux

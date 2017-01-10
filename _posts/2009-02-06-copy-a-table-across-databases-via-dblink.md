@@ -2,7 +2,6 @@
 title: copy a table across databases via dblink
 date: 2009-02-06T15:32:40+00:00
 layout: post
-permalink: /2009/02/copy-a-table-across-databases-via-dblink/
 tags:
   - dblink
   - postgres

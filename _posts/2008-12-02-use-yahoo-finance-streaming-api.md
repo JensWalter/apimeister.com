@@ -2,7 +2,6 @@
 title: use yahoo finance streaming api
 date: 2008-12-02T12:23:33+00:00
 layout: post
-permalink: /2008/12/use-yahoo-finance-streaming-api/
 tags:
   - ajax
   - streaming api

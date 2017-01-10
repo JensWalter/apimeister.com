@@ -2,7 +2,6 @@
 title: init script for the TIBCO Administrator
 date: 2009-09-05T19:03:06+00:00
 layout: post
-permalink: /2009/09/init-script-for-the-tibco-administrator/
 tags:
   - BusinessWorks
   - shell

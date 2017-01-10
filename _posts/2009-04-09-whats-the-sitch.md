@@ -2,7 +2,6 @@
 title: 'what&#8217;s the sitch'
 date: 2009-04-09T00:26:32+00:00
 layout: post
-permalink: /2009/04/whats-the-sitch/
 tags:
   - streaming api
   - yahoo finance

@@ -2,7 +2,6 @@
 title: bringing the yahoo finance stream to the shell
 date: 2009-02-03T16:17:06+00:00
 layout: post
-permalink: /2009/02/bringing-the-yahoo-finance-stream-to-the-shell/
 tags:
   - shell
   - streaming api
@@ -12,7 +11,7 @@ A little while ago a posted a primitive way to get to yahoo finance streaming da
 
   * curl – to send and receive the http request
 
-  * [transform](/2009/01/streaming-editor-improved/) – a primitive tool to do streaming operations within one line
+  * [transform](/2009/01/14/streaming-editor-improved.html) – a primitive tool to do streaming operations within one line
 
   * spidermonkey shell (a javascript shell which can parse and reformat the data)
 
@@ -22,7 +21,7 @@ The complete logic will be done in the javascript. So lets start with the curl c
 
 Let’s see what we have here. First we call the yahoo streaming api and want the current price (l10) for the stocks of Sun and Microsoft. The callback part cannot be changed. If you change this part the whole request will not succeed. Also important is to get the output to STDOUT so that we can pipe the output to the next application.
 
-Second part of the work is just to call the transform application ([further explanation here](/2009/01/streaming-editor-improved/)).
+Second part of the work is just to call the transform application ([further explanation here](/2009/01/14/streaming-editor-improved.html)).
 
 The third part is to pipe the output of the transform process into the javascript shell. I started the shell with the following command:
 

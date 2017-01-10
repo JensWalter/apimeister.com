@@ -2,7 +2,6 @@
 title: Streaming editor improved
 date: 2009-01-14T15:51:03+00:00
 layout: post
-permalink: /2009/01/streaming-editor-improved/
 tags:
   - yahoo finance
 ---

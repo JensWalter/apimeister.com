@@ -2,7 +2,6 @@
 title: Moving Windows remotely with .NET
 date: 2008-12-10T19:34:16+00:00
 layout: post
-permalink: /2008/12/moving-windows-remotely-with-net/
 tags:
   - csharp
 ---
@@ -60,4 +59,4 @@ downloads:
   * [windowsapplication1.exe](/assets/windowsapplication1.exe)
   * [windowsapplication1 project folder](/assets/windowsapplication1.zip)
 
-[follow-up here](/2009/02/moving-windows-part2/ "follow-up here")
+[follow-up here](/2009/02/01/moving-windows-part2.html "follow-up here")

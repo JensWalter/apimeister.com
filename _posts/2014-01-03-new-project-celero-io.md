@@ -2,7 +2,6 @@
 title: 'new project - celero.io'
 date: 2014-01-03T23:31:49+00:00
 layout: post
-permalink: /2014/01/new-project-celero-io/
 tags:
   - celero.io
 ---

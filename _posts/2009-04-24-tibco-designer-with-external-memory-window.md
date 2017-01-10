@@ -2,7 +2,6 @@
 title: TIBCO Designer with external memory window
 date: 2009-04-24T18:13:10+00:00
 layout: post
-permalink: /2009/04/tibco-designer-with-external-memory-window/
 tags:
   - designer
   - TIBCO

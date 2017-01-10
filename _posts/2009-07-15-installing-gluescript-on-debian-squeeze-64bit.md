@@ -2,7 +2,6 @@
 title: installing GLUEscript on debian squeeze 64bit
 date: 2009-07-15T16:06:15+00:00
 layout: post
-permalink: /2009/07/installing-gluescript-on-debian-squeeze-64bit/
 tags:
   - 64-bit
   - javascript

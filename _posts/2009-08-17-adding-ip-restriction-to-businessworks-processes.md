@@ -2,7 +2,6 @@
 title: adding IP-restriction to BusinessWorks processes
 date: 2009-08-17T01:16:07+00:00
 layout: post
-permalink: /2009/08/adding-ip-restriction-to-businessworks-processes/
 tags:
   - BusinessWorks
   - TIBCO

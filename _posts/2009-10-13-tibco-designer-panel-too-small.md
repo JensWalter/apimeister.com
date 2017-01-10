@@ -2,7 +2,6 @@
 title: TIBCO Designer Panel too small
 date: 2009-10-13T18:52:38+00:00
 layout: post
-permalink: /2009/10/tibco-designer-panel-too-small/
 tags:
   - BusinessWorks
   - designer
@@ -12,7 +11,7 @@ Recently I ran into some rather trivial problem which isn’t really addressed b
 
 After asking around I came to the conclusion that every designer (from different colleges I work with) had a different resolution for the Design canvas. Nobody knew any kind of property where you can set this resolution, so I began searching around.
 
-The designer uses basically 2 Folder for its configs. One is the installation folder with the designer.tra ([already explored this one](/2009/04/improve-tibco-designer-tester-performance-under-linux/)). The other one is the .TIBCO folder in your user home directory. In that folder there exists a file with the name “Designer5.prefs”.
+The designer uses basically 2 Folder for its configs. One is the installation folder with the designer.tra ([already explored this one](/2009/04/22/improve-tibco-designer-tester-performance-under-linux.html)). The other one is the .TIBCO folder in your user home directory. In that folder there exists a file with the name “Designer5.prefs”.
 
 The content of this file consists mainly of position data of the various dialogs. Further to that it includes all the values which you can set through the designer preferences window. Back to the actual topic, I found the following two values:
 

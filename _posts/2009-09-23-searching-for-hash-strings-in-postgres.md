@@ -2,7 +2,6 @@
 title: searching for hash strings in postgres
 date: 2009-09-23T15:54:14+00:00
 layout: post
-permalink: /2009/09/searching-for-hash-strings-in-postgres/
 tags:
   - performance
   - postgres

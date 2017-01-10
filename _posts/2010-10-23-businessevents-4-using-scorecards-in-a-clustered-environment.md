@@ -2,7 +2,6 @@
 title: 'BusinessEvents 4: using Scorecards in a clustered environment'
 date: 2010-10-23T20:43:18+00:00
 layout: post
-permalink: /2010/10/businessevents-4-using-scorecards-in-a-clustered-environment/
 tags:
   - BusinessEvents
   - TIBCO

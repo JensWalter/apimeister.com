@@ -2,7 +2,6 @@
 title: why sub-selects can be faster than inner joins
 date: 2009-06-25T14:28:26+00:00
 layout: post
-permalink: /2009/06/why-sub-selects-can-be-faster-than-inner-joins/
 tags:
   - performance
   - postgres

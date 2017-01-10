@@ -2,7 +2,6 @@
 title: handling a few thousand simultaneous connections in TIBCO BusinessWorks
 date: 2009-12-08T17:22:16+00:00
 layout: post
-permalink: /2009/12/handling-a-few-thousand-simultaneous-connections-in-tibco-businessworks/
 tags:
   - BusinessWorks
   - TIBCO

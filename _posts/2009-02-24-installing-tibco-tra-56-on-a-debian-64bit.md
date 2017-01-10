@@ -2,7 +2,6 @@
 title: installing TIBCO TRA 5.6 on a debian 64bit
 date: 2009-02-24T00:59:40+00:00
 layout: post
-permalink: /2009/02/installing-tibco-tra-56-on-a-debian-64bit/
 tags:
   - 64-bit
   - TIBCO

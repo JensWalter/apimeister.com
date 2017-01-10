@@ -2,7 +2,6 @@
 title: generate random timestamps in mysql
 date: 2008-10-03T12:13:15+00:00
 layout: post
-permalink: /2008/10/generate-random-timestamps-in-mysql/
 tags:
   - mysql
   - random timestamp

@@ -2,7 +2,6 @@
 title: get hostname from url as stored procedure in plpgsql
 date: 2009-06-09T00:38:35+00:00
 layout: post
-permalink: /2009/06/get-hostname-from-url-as-stored-procedure-in-plpgsql/
 tags:
   - postgres
 ---

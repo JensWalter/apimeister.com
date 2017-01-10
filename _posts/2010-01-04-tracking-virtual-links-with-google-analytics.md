@@ -2,7 +2,6 @@
 title: tracking virtual links with google analytics
 date: 2010-01-04T19:57:00+00:00
 layout: post
-permalink: /2010/01/tracking-virtual-links-with-google-analytics/
 tags:
   - cloudtheweb.com
   - google analytics

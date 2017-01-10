@@ -2,7 +2,6 @@
 title: Moving Windows Part2
 date: 2009-02-01T02:02:22+00:00
 layout: post
-permalink: /2009/02/moving-windows-part2/
 tags:
   - csharp
 ---

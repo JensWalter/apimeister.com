@@ -2,7 +2,6 @@
 title: shell-tools.net version2
 date: 2009-07-31T23:10:27+00:00
 layout: post
-permalink: /2009/07/shell-tools-net-version2/
 tags:
   - shell-tools.net
 ---

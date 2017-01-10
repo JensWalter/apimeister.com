@@ -2,7 +2,6 @@
 title: extracting information from websites through xslt
 date: 2009-06-05T19:05:40+00:00
 layout: post
-permalink: /2009/06/extracting-information-from-websites-through-xslt/
 tags:
   - HTML
   - XSLT

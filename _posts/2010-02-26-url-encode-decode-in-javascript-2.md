@@ -2,7 +2,6 @@
 title: URL encode / decode in JavaScript
 date: 2010-02-26T21:57:13+00:00
 layout: post
-permalink: /2010/02/url-encode-decode-in-javascript-2/
 tags:
   - javascript
 ---

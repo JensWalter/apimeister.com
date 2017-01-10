@@ -2,7 +2,6 @@
 title: writing Unicode characters to Oracle with TIBCO BusinessWorks
 date: 2009-05-28T14:19:33+00:00
 layout: post
-permalink: /2009/05/writing-unicode-characters-to-oracle-with-tibco-businessworks/
 tags:
   - BusinessWorks
   - Oracle
