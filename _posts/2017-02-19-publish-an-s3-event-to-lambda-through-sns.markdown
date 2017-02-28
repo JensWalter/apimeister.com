@@ -8,14 +8,14 @@ My path through starting with AWS CloudFormation was a somewhat rocky path. Ofte
 
 Scenario:
 * Raise an S3-Object-Create event
-* publish that event to SNS
-* subscribe to that event with a Lambda
+* Publish that event to SNS
+* Subscribe to that event with a Lambda
 
 As picture this would look like this:
 
 ![s3-subscription](/assets/s3-subscription.png)
 
-I use serverless as project template, since this by far the easiest starting Point for any serverless work.
+I use [serverless](https://serverless.com/) as project template, since this by far the easiest starting Point for any serverless work.
 
 So here is my serverless YAML explained step-by-step (whole YAML is attached at the bottom).
 
