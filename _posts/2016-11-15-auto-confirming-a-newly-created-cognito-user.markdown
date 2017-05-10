@@ -2,7 +2,7 @@
 layout: post
 title:  "auto-confirming a newly created Cognito user"
 date:   2016-11-11 19:49:54
-tags: aws
+tags: cognito lambda
 ---
 In Cognito all registered users need to be confirmed before they can interact with other services.
 
