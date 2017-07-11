@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "get the most visited url from an access log through a single line of bash"
-date:   2015-06-17 22:25:20
+date:   2015-06-17 12:25:20
 tags: bash apache
 ---
 If you have an apache access log and want to see the visit count of your site, you can use this one-liner to get some basic visit stats.
