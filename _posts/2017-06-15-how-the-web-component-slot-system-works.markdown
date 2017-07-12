@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "how the web component slot system works"
-date:   2017-06-15 10:08:54
+date:   2017-06-15 10:08:54 +0200
 tags: webcomponents javascript html
 ---
 In my [previous post](https://apimeister.com/2017/06/14/how-web-component-attributes-work.html) I described how to send data in form of attributes to a web component. Since this mechanism is only applicable for simple values, there also is a separate mechanism for inserting complex values.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "writing a hello world web component"
-date:   2017-06-03 10:08:54
+date:   2017-06-03 10:08:54 +0200
 tags: webcomponents javascript html
 ---
 Web components are the shiny new thing on the horizon for web development. Sadly browser support is not just there, but it seems to be growing pretty quickly.

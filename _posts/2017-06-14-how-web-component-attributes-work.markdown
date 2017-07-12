@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "how web component attributes work"
-date:   2017-06-14 10:08:54
+date:   2017-06-14 10:08:54 +0200
 tags: webcomponents javascript html
 ---
 My [last post](https://apimeister.com/2017/06/03/writing-a-hello-world-web-component.html) described how to build a web component. Any form of data handling was intentionally left out.

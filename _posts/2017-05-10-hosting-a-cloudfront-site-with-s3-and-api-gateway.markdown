@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "hosting a Cloudfront site with S3 and API Gateway"
-date:   2017-05-09 13:08:54
+date:   2017-05-09 13:08:54 +0200
 tags: cloudformation cloudfront apigateway
 ---
 Here my scenario I try to cover this time.

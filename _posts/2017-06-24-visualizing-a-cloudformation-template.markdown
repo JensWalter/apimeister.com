@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "visualizing a cloudformation template"
-date:   2017-06-24 10:08:54
+date:   2017-06-24 10:08:54 +0200
 tags: cloudformation
 ---
 CloudFormation templates grow pretty fast over the period of a project.
