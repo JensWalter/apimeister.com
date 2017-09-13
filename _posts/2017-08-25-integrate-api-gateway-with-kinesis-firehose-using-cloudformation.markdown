@@ -2,7 +2,7 @@
 layout: post
 title:  "Integrate API Gateway with Kinesis Firehose using CloudFormation"
 date:   2017-08-24 10:08:54 +0200
-tags: cloudformation
+tags: cloudformation firehose
 ---
 Integrating API Gateway with other AWS Services can be pretty important to increase the scope of an API into other services.
 
@@ -24,7 +24,7 @@ Resources:
 {% endhighlight %}
 
 Now I configured a Firehose.
-As a prerequisite I needed a role which would allow the Firehose to acutally write into the S3 bucket.
+As a prerequisite I needed a role which would allow the Firehose to actually write into the S3 bucket.
 {% highlight YAML %}
 KinesisRole:
   Type: AWS::IAM::Role
@@ -167,7 +167,7 @@ GatewayRole:
             Resource: "*"
 {% endhighlight %}
 
-I added a Deployment, so the API would automitically get deployed after it is created.
+I added a Deployment, so the API would automatically get deployed after it is created.
 {% highlight YAML %}
 ApiGatewayDeployment:
   Type: AWS::ApiGateway::Deployment
