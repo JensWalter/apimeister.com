@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "installing the nchan module for nginx on a gentoo based system"
-date:   2016-10-16 15:49:54
+date:   2016-10-16 15:49:54 +0200
 tags: nginx
 ---
 I recently encountered a requirement that could be fulfilled by the nchan module for nginx.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "building an API on top of another page"
-date:   2015-12-21 15:02:54
+date:   2015-12-21 15:02:54 +0200
 tags: api101 mintosAPI
 ---
 In my last post ["the serverless API"](/2015/12/16/the-serverless-api.html "the serverless API") I explained how an API could be build without any infrastructure to begin with.

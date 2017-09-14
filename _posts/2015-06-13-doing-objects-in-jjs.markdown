@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "doing objects in jjs"
-date:   2015-06-13 08:12:55
+date:   2015-06-13 08:12:55 +0200
 tags: java nashorn jjs javascript
 ---
 Instantiating a Java Object in jjs is pretty straight forward, at least it can be.

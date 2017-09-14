@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "generate a random uuid in bash"
-date:   2015-08-04 16:21:54
+date:   2015-08-04 16:21:54 +0200
 tags: bash uuid
 ---
 To generate a UUIDv4 (random UUID) you can execute the following command.

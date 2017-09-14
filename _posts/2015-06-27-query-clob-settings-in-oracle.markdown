@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "query clob settings in oracle"
-date:   2015-06-27 11:31:54
+date:   2015-06-27 11:31:54 +0200
 tags: oracle
 ---
 You can query all clob related settings from the database with the following query.

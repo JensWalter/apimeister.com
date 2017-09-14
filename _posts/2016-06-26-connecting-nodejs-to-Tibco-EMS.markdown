@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "connecting nodejs to Tibco EMS"
-date:   2016-06-26 21:57:54
+date:   2016-06-26 21:57:54 +0200
 tags: tibco ems nodejs
 ---
 I recently started a new project to bring Tibco EMS connectivity to nodejs.

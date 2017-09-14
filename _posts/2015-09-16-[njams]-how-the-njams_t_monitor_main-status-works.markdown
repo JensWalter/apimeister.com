@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[njams] how the njams_t_monitor_main status works"
-date:   2015-09-16 09:11:54
+date:   2015-09-16 09:11:54 +0200
 tags: njams
 ---
 nJAMS/BWPM has a rather complex system for determining the status of a process.

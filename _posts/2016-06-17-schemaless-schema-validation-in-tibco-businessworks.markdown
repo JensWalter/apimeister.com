@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "schemaless schema validation in TIBCO BusinessWorks"
-date:   2016-06-17 17:06:54
+date:   2016-06-17 17:06:54 +0200
 tags: tibco businessworks
 ---
 Usually, schema validation in BusinessWorks is done pretty straight forward. You get an xml, known the schema and just run a ParseXml activity. The problem becomes more complicated if you have to validate a xml which you have no knowledge of which schema it derived from. In my case, I had a folder full of schemas which I had to validate the incoming xml against.

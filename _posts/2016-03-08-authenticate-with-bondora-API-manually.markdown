@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "authenticate with the bondora API manually"
-date:   2016-03-08 13:38:54
+date:   2016-03-08 13:38:54 +0200
 tags: oauth bondoraAPI
 ---
 Bondora uses OAuth for its API authentication, while this is great for external service providers owning their own domain/app, it is also relatively cumbersome for stand alone applications/scripts.

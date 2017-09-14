@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "debugging a java application with an interactive shell"
-date:   2015-06-28 15:48:54
+date:   2015-06-28 15:48:54 +0200
 tags: java nashorn jjs
 ---
 Since a while ago, the JVM has an embedded Javascript engine within. Since Java 8 (I think) this engine got extended through an interactive shell. So now you can start an interactive Javascript shell within your JVM.

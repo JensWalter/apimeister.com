@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "get table and index allocation size in oracle"
-date:   2015-06-27 08:13:54
+date:   2015-06-27 08:13:54 +0200
 tags: oracle
 ---
 [part 2 -> now with partitioned tables]({% post_url 2016-06-21-get-oracle-allocation-sizes-part-2 %})

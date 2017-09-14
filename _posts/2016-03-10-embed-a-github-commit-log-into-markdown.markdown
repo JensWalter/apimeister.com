@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "embed a github commit log into markdown"
-date:   2016-03-10 20:52:54
+date:   2016-03-10 20:52:54 +0200
 tags: api javascript github
 ---
 I started to write some documentation for a project of mine and I wanted to embed a change log on certain elements in the documentation.

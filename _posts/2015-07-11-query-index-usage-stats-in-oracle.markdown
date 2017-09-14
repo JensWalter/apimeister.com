@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "query index usage statistics in oracle"
-date:   2015-07-11 17:52:54
+date:   2015-07-11 17:52:54 +0200
 tags: oracle
 ---
 **how often an index was used**

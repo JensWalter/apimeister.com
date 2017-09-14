@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "invoking java gc through bash"
-date:   2016-11-23 20:18:54
+date:   2016-11-23 20:18:54 +0200
 tags: java bash
 ---
 Sometimes Java processes start accumulating memory over time and do not give them back to the OS. In previous versions of Java, this was a limitation of the JVM. In Java 8 and newer, with the arrival of the G1 garbage collector, the JVM releases memory back to the OS after a GC run.

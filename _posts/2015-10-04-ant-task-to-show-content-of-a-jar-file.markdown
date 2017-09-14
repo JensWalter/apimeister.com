@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ant task to show content of a jar file"
-date:   2015-10-04 18:50:54
+date:   2015-10-04 18:50:54 +0200
 tags: ant java
 ---
 A short while ago I started using travis-ci as my continuous build environment. After running some tests I suspected that some files are missing from my ant created jar file. Sadly travis does not support a trivial way to upload the produced jar to a remote location. So I decided to take the console output (which they provide for every build job), to inspect what files are actually packaged in the jar file. After a short search I came up with the following solution.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "FormDataHandler implements com.sun.net.httpserver.HttpHandler"
-date:   2015-10-10 21:04:54
+date:   2015-10-10 21:04:54 +0200
 tags: java
 ---
 I just needed a dependency free version of a FormData Parser. Since all libraries I found were rather heavy weight I decided to start on my own implementation and share this one.

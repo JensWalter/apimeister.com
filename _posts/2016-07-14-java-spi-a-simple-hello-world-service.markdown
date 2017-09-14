@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Java SPI - a simple hello world service"
-date:   2016-07-14 15:13:54
+date:   2016-07-14 15:13:54 +0200
 tags: java
 ---
 I recently needed a simple example of an SPI implementation I could send around as  copy and paste template. After some looking around I found some tutorials, but most of them were rather heavy in the implementation and are thereby loosing the point of being a simple extension system within the JDK.

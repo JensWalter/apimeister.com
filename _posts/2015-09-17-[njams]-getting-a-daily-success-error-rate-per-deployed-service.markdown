@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[njams] getting a daily success/error rate per deployed service"
-date:   2015-09-17 09:11:54
+date:   2015-09-17 09:11:54 +0200
 tags: njams
 ---
 Often people ask for various reports which can be generated out of the nJAMS/BWPM data pool.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "print something to the console in jjs"
-date:   2015-06-11 11:12:45
+date:   2015-06-11 11:12:45 +0200
 tags: java nashorn jjs javascript
 ---
 Once I got jjs running I started with some pretty simple stuff.

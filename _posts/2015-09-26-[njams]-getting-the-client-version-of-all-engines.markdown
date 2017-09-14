@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[njams] getting the client version of all engines"
-date:   2015-09-26 15:41:54
+date:   2015-09-26 15:41:54 +0200
 tags: njams
 ---
 After migrating a nJAMS on a large BusinessWorks environment, you need to check, whether all engines are actually using the updated version of the client. To check this, you can either check every engine log file or you can just go directly to the database.

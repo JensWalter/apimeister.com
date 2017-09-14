@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[mule] flowVars not visible in parent flow"
-date:   2015-09-04 14:34:54
+date:   2015-09-04 14:34:54 +0200
 tags: mule
 ---
 Doing some integration in Mule Anypoint Studio a stumbled upon something I didn't expect.

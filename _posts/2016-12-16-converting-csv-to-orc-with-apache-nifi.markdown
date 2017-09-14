@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "converting CSV to ORC with Apache NiFi"
-date:   2016-12-16 14:36:54
+date:   2016-12-16 14:36:54 +0200
 tags: nifi
 ---
 Converting a CSV to ORC files usually takes a Hadoop cluster to perform the task. Since I only wanted to convert files for later uploading into an existing cluster, I tried some different approach. Searching for some tool to do the task, I arrived at Apache NiFi.

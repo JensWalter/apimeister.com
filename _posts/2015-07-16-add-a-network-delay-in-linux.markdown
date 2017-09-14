@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "add a network delay in linux"
-date:   2015-07-16 16:34:54
+date:   2015-07-16 16:34:54 +0200
 tags: linux
 ---
 Adding a delay to all network traffic is pretty easy and can be done through the following command.

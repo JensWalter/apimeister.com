@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "migrating a mongodb to AWS Athena"
-date:   2017-03-27 12:52:54
+date:   2017-03-27 12:52:54 +0200
 tags: athena mongodb
 ---
 I have an existing application that uses a mongodb to store metadata on files to make them searchable. Since searching in those records is not very time sensitive for me, I thought about migrating the whole database to S3/Athena. The advantage here would be, that there would be no longer a database to maintain, since Athena runs serverless on AWS.

@@ -2,7 +2,7 @@
 layout: post
 title:  "[njams] find engines with replay recording disabled"
 permalink: 2016/07/21/njams-find-engines-with-replay-recording-disabled.html
-date:   2016-07-21 11:15:54
+date:   2016-07-21 11:15:54 +0200
 tags: njams
 ---
 From time to time it happens that somebody disables njams replay recording on some engine for whatever reason and forgets about it. So later on when you need an overview on what engine recording is actually disabled, you can run the following select to gather that insight.
