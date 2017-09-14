@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "add jar to the classpath at runtime in jjs (the hacky way)"
-date:   2015-06-27 14:22:54
+date:   2015-06-27 14:22:54 +0200
 tags: java nashorn jjs javascript
 ---
 Normally, the JVM does not allow extending the classpath during runtime. But due to the demand, people found ways around that restriction.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "detect whether ASSM is managing your tablespace"
-date:   2015-06-26 12:03:54
+date:   2015-06-26 12:03:54 +0200
 tags: oracle
 ---
 I recently had an oracle database where I wanted to compress the clob store for more storage efficiency. To do that, I needed to convert the clob store from basicfiles to securefiles.

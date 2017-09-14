@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "getting monthly throughput stats of a TIBCO EMS instance"
-date:   2015-06-25 10:22:10
+date:   2015-06-25 10:22:10 +0200
 tags: tibco ems
 ---
 The TIBCO EMS does not provide the capability to gather monthly throughput statistics on its own. So we we have to improvise to get some stats on a regularly basis.

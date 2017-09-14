@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "extract the UUIDv1 encapsulated timestamp within an oracle select"
-date:   2015-06-14 18:34:23
+date:   2015-06-14 18:34:23 +0200
 tags: oracle sql uuid
 ---
 When you have a partioned table full of UUIDs but partitioned through timestamp, you need a way to translate the UUID back into a timestamp to match a partition where the key is stored. So here is my way of how to extract the timestamp out of an UUIDv1.

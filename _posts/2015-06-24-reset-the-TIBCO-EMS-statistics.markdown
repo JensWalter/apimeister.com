@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "reset the TIBCO EMS statistics"
-date:   2015-06-24 20:12:20
+date:   2015-06-24 20:12:20 +0200
 tags: tibco ems
 ---
 resetting the TIBCO EMS statistics without restarting the server.
