@@ -1,12 +1,18 @@
-# Site settings
-title: apimeister blog
-email: jens@apimeister.com
-description: > # this means to ignore newlines until "baseurl:"
-  The blog about whatever comes to my mind.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://apimeister.com" # the base hostname & protocol for your site
-twitter_username: jens_walter
+title: API Meister
+email: contact@apimeister.com
+description: >-
+  APIs is what we live on.
+
+avatar: /assets/apimeister-logo.png
+baseurl: ""
+url: "https://apimeister.com"
+twitter_username: Jens_Walter
 github_username:  JensWalter
 
-# Build settings
+google_analytics: UA-5676095-12
+
 markdown: kramdown
+
+linkedin_url: https://www.linkedin.com/company/apimeister/
+github_url: https://github.com/JensWalter
+collections: [sections]
