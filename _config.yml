@@ -7,12 +7,12 @@ avatar: /assets/apimeister-logo.png
 baseurl: ""
 url: "https://apimeister.com"
 twitter_username: Jens_Walter
-github_username:  JensWalter
+github_username:  apimeister
 
 google_analytics: UA-5676095-12
 
 markdown: kramdown
 
 linkedin_url: https://www.linkedin.com/company/apimeister/
-github_url: https://github.com/JensWalter
+github_url: https://github.com/apimeister
 collections: [sections]
