@@ -8,7 +8,7 @@ order: 99
 ### Information according to Sect. 5 TMG (Telemedia Act):
 
 **APImeister Consulting GmbH**<br>
-Friedrichstr. 123<br>
+Friedrichstr. 114A<br>
 10117 Berlin<br>
 Germany
 
