@@ -12,6 +12,43 @@ order: 90
 * 1 percent of our revenue will be dedicated to sustainability projects.
 * Every year a sustainability report will be created and published.
 
+### Report 2022
+
+All numbers reported are the approximated use of services by the employees of Apimeister Consulting GmbH.
+
+#### Travel statistics
+
+| type  | distance | CO2  |
+|-------|----------|------|
+| train | 5'600km  | 0.2t |
+| plane |  55'600km  | 8.9t |
+
+#### Employees
+
+* 2 employees (averaging 7.9t CO2 per person in Germany)
+
+#### Supported projects
+
+
+### Report 2021
+
+All numbers reported are the approximated use of services by the employees of Apimeister Consulting GmbH.
+
+#### Travel statistics
+
+| type  | distance | CO2  |
+|-------|----------|------|
+| train | 1600km  | 0.1t |
+| plane |  19'000km  | 3t |
+
+#### Employees
+
+* 2 employees (averaging 7.9t CO2 per person in Germany)
+
+#### Supported projects
+
+- [primaklima.org](https://www.primaklima.org/): 200t CO2, 3.500,00 €
+
 
 ### Report 2020
 
