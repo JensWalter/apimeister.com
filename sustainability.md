@@ -32,14 +32,15 @@ All numbers reported are the approximated use of services by the employees of Ap
 
 ### Report 2021
 
-All numbers reported are the approximated use of services by the employees of Apimeister Consulting GmbH.
+Sustainability details for the year 2021.
 
 #### Travel statistics
 
 | type  | distance | CO2  |
 |-------|----------|------|
-| train | 1600km  | 0.1t |
+| train | 1'600km  | 0.1t |
 | plane |  19'000km  | 3t |
+| car   |   1'000km  | 0.2t |
 
 #### Employees
 
