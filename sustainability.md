@@ -12,6 +12,26 @@ order: 90
 * 1 percent of our revenue will be dedicated to sustainability projects.
 * Every year a sustainability report will be created and published.
 
+### Report 2023
+
+All numbers reported are the approximated use of services by the employees of Apimeister Consulting GmbH.
+
+#### Travel statistics
+
+| type  | distance | CO2  |
+|-------|----------|------|
+| train | 16'300km  | 0.5t |
+| plane |  60'000km  | 10t |
+
+#### Empoyess
+
+* 3 employess (averaging 11.17t CO2 per person in Germany)
+
+#### Supported projects
+
+- [atmosfair.de](https://www.atmosfair.de/): 200t CO2, 5.000,00 €
+- [atmosfair.de](https://www.atmosfair.de/): 1.000,00 €
+
 ### Report 2022
 
 All numbers reported are the approximated use of services by the employees of Apimeister Consulting GmbH.
@@ -29,6 +49,7 @@ All numbers reported are the approximated use of services by the employees of Ap
 
 #### Supported projects
 
+- [atmosfair.de](https://www.atmosfair.de/): 200t CO2, 4.600,00 €
 
 ### Report 2021
 
